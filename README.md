@@ -3,7 +3,7 @@
 HTTPメソッドGET、 POST、 PATCH、 DELETEのリクエスト結果を表示する
 ## 動作確認
 ### GET
-![GET](https://github.com/minori-oya/Project7/assets/138114043/9fdb667e-aab4-4d72-8f0f-a11c6c5d892a)
+![GET](https://github.com/minori-oya/Project7/assets/138114043/303ebc36-a4af-4111-8ac4-c6c39823871c)
 ### GET クエリ文字列を受け取る場合
 ![GET・クエリ文字列](https://github.com/minori-oya/Project7/assets/138114043/1917afe2-179e-4a2e-970d-278bff6f3afd)
 ### POST
