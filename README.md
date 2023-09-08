@@ -1,6 +1,6 @@
 # 第７回課題　HTTPメソッドの実装
 ## 概要
-HTTPメソッドGET、 POST、 PATCH、 DELETEのリクエスト結果を表示する
+商品情報をHTTPメソッドGET、 POST、 PATCH、 DELETEによって実装しています。
 ## 動作確認
 ### GET
 ![GET](https://github.com/minori-oya/Project7/assets/138114043/303ebc36-a4af-4111-8ac4-c6c39823871c)
