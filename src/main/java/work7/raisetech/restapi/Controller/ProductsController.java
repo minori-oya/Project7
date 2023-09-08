@@ -40,7 +40,7 @@ public class ProductsController {
     @PostMapping("/names")
     public ResponseEntity<ProductsCreateResponse> createResponse(
             @RequestBody List<ProductsCreateForm> productsCreateForm, UriComponentsBuilder uriComponentsBuilder) {
-        List<ProductsCreateForm> cretateForm = List.of(
+        List<ProductsCreateForm> createForm = List.of(
                 new ProductsCreateForm(4, "ワンピース"),
                 new ProductsCreateForm(5, "セーター"));
 
