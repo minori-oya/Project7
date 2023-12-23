@@ -1,6 +1,6 @@
 # HTTPメソッドの実装
 ## 概要
-商品情報をHTTPメソッドGET、 POST、 PATCH、 DELETEによって実装しています。
+アパレル店の商品情報をHTTPメソッドであるGET、 POST、 PATCH、 DELETEを使用して実装しています。
 ## 動作確認
 ### GET　（クエリ文字列を受け取る場合）
 ##### cURLコマンド
